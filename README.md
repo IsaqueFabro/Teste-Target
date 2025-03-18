@@ -1,8 +1,4 @@
-*Teste-Target*
-
-*Estágio em Desenvolvimento Target Sistemas*
-
-*Etapas dos Desafios:*
+*Desafios:*
 
 *1) Verificação de número na sequência de Fibonacci*
 
